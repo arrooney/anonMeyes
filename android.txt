@@ -1,0 +1,3 @@
+title=ANONMEYES
+author=JOKAR
+orientation=portrait
